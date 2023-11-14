@@ -45,6 +45,35 @@ points_table.csv: Current tournament standings.
 
 #### (1) Final Team Prediction - Final_Team_prediction.ipynb
 
+In our final team prediction task, we aimed to forecast the teams that would reach the semi-finals and ultimately predict the winner of the ICC Cricket World Cup 2023. To enhance the accuracy of our predictions, we leveraged a comprehensive dataset that included ODI matches spanning from 2002 to 2023, with a particular emphasis on the ICC World Cup Kaggle data for 2023 (comprising 32 matches).
+
+Data Integration and Importance :
+
+-We merged these datasets to capitalize on the wealth of information from both historical ODI matches and the recent ICC World Cup matches. Special emphasis was given to ICC matches to ensure the relevance and significance of the predictions.
+
+Prediction Models :
+
+-Several machine learning models, including RandomForestClassifier, XGBClassifier, DecisionTreeClassifier, and Artificial Neural Networks (ANN), were employed to predict the outcomes. These models were trained on the integrated dataset, considering team performances, player statistics, and match details.
+
+Semi-Final Teams Prediction :
+
+-Based on our predictions and considering the points table scraped from reliable sources, we identified the top four teams: India, South Africa, Australia, and New Zealand.
+
+Semi-Final Results :
+
+-Our model forecasted semi-final results, with India emerging victorious against New Zealand and South Africa securing a win against Australia.
+
+Final Teams :
+
+-The culmination of our predictions led us to the final face-off between India and South Africa.
+
+World Cup Winner :
+
+-In accordance with our model predictions, India emerged as the predicted winner of the ICC Cricket World Cup 2023.
+-This comprehensive approach, blending historical context with recent match data, and utilizing advanced prediction models, provides a robust foundation for our final team prediction task.
+
+
+
 #### (2) Playing 11 - Playing_11.ipynb
 
 #### (3) Percentage Of Dot Balls - percentage_of_dot_balls.ipynb
