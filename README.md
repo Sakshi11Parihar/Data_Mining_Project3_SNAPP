@@ -143,3 +143,8 @@ This section presents the results of predicting the percentage of dot balls for 
 Conclusion :-
 
 - The results demonstrate the performance of different regression models in predicting the dot ball percentage for bowlers. The Random Forest Regressor outperformed other models with a high R² score and lower RMSE values on both the validation and test sets.
+
+### (4) Batsman's Runs Prediction - Batsman's Runs Prediction.ipynb
+
+![Result](flow_chart/Batsman_Run_Prediction_result.jpg)
+
