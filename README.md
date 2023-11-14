@@ -43,7 +43,7 @@ points_table.csv: Current tournament standings.
 
 ## 1. Prediction
 
-#### (1) Final Team Prediction - Final_Team_prediction.ipynb
+### (1) Final Team Prediction - Final_Team_prediction.ipynb
 
 In our final team prediction task, we aimed to forecast the teams that would reach the semi-finals and ultimately predict the winner of the ICC Cricket World Cup 2023. To enhance the accuracy of our predictions, we leveraged a comprehensive dataset that included ODI matches spanning from 2002 to 2023, with a particular emphasis on the ICC World Cup Kaggle data for 2023 (comprising 32 matches).
 
@@ -80,7 +80,7 @@ World Cup Winner :
 
 
 
-#### (2) Playing 11 - Playing_11.ipynb
+### (2) Playing 11 - Playing_11.ipynb
 
 Our playing XI prediction for India and South Africa involved a meticulous process to ensure the selection of the most impactful players. Here's a step-by-step overview:
 
@@ -129,7 +129,7 @@ Top Batsmen and Bowlers:
 - This comprehensive approach ensures a balanced and impactful playing XI for each team, combining statistical performance with predictive modeling for an optimal team composition.
 
 
-#### (3) Percentage Of Dot Balls - percentage_of_dot_balls.ipynb
+### (3) Percentage Of Dot Balls - percentage_of_dot_balls.ipynb
 
 Overview :-
 
