@@ -37,7 +37,7 @@ matches.csv: Detailed information on each match played.
 points_table.csv: Current tournament standings.
 
 
-## 1. Prediction
+## 2. Prediction
 
 ### (1) Final Team Prediction - Final_Team_prediction.ipynb
 
