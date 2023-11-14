@@ -18,11 +18,7 @@ Welcome to our ICC Cricket World Cup 2023 predictions! We're excited to use data
 # Project Pipeline
 ![Final_Chart](flow_chart/Process-Involved-in-Machine-Learning.png)
 
-# Table of Contents
 
-## [ 1. Dataset description ](#1-dataset-description)
-## [ 2. Prediction](#2-prediction)
-## [ 3. Conclusion ](#3-conclusion)
 
 ## 1. Dataset description
 
