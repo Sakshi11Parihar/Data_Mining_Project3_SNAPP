@@ -146,5 +146,5 @@ Conclusion :-
 
 ### (4) Batsman's Runs Prediction - Batsman's Runs Prediction.ipynb
 
-![Result](flow_chart/Batsman_Run_Prediction_result.jpg)
+![Result](flow_chart/Batsman_Run_Prediction_result.jpeg)
 
