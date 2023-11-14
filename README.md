@@ -24,4 +24,13 @@ Welcome to our ICC Cricket World Cup 2023 predictions! We're excited to use data
 ## [ 2. Prediction](#2-prediction)
 ## [ 3. Conclusion ](#3-conclusion)
 
+## 1. Dataset description
+
+The 2023 ICC Men's Cricket World Cup is the 13th edition of the Cricket World Cup, a quadrennial One Day International (ODI) cricket tournament contested by men's national teams and organized by the International Cricket Council (ICC). The tournament is being hosted by India, it started on 5 October and is scheduled to conclude on 19 November 2023. England are the defending champions, having won the 2019 edition by defeating New Zealand in the final at Lord's, London.
+
+Content :-
+
+deliveries.csv -> Containing ball by ball all matches data
+matches.csv -> Details for each match played
+points_table.csv -> Tournament standings so far
 
