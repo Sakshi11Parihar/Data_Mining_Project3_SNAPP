@@ -146,5 +146,37 @@ Conclusion :-
 
 ### (4) Batsman's Runs Prediction - Batsman's Runs Prediction.ipynb
 
+Overview :
+
+- The "batsmans_run_prediction" task aims to predict the total runs scored by a batsman in a cricket match based on historical data. This prediction is valuable for understanding the performance of individual batsmen and can provide insights into their contribution to the team's overall score.
+
+Data Preparation :
+
+Grouping and Aggregation:
+
+- The initial step involves grouping the cricket match data by relevant parameters, such as match_id, batting_team, and striker. Aggregation functions are then applied to calculate the total runs scored by each batsman.
+
+- Additionally, the unique set of bowlers faced by each batsman is identified, creating a list of bowlers faced during the match.
+
+Data Encoding :
+
+- Label encoding is applied to categorical features like batting_team, venue, striker, bowling_team, and the bowlers faced. This encoding transforms categorical values into numerical format, making them suitable for machine learning models.
+
+Features :
+
+The key features used for prediction include:
+
+- Total Runs by Batsman: The aggregated sum of runs scored by each batsman.
+  
+Venue: The location where the match took place.
+
+Bowling Team: The team responsible for bowling during the match.
+
+Bowler(s) Faced: List of bowlers faced by the batsman.
+
+Models : Linear Regression Model ,Support Vector Machine (SVM) Regressor Model, Decision Tree Regression Model, Random Forest Regression Model
+
+Result:
+
 ![Result](flow_chart/Batsman_Run_Prediction_result.jpeg)
 
