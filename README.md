@@ -55,8 +55,11 @@ Prediction Models :
 
 - Several machine learning models, including RandomForestClassifier, XGBClassifier, DecisionTreeClassifier, and Artificial Neural Networks (ANN), were employed to predict the outcomes. These models were trained on the integrated dataset, considering team performances, player statistics, and match details.
 
-
+- Models_result for RandomForestClassifier, XGBClassifier, DecisionTreeClassifier learning models
+  
 ![Result](flow_chart/Final_team_models.jpeg)
+
+- Models_result for Artificial Neural Networks (ANN)
 
 ![Result](flow_chart/Final_team_ANN_result.jpeg)
 
@@ -127,6 +130,10 @@ Top Batsmen and Bowlers:
 - Displayed the top 6 batsmen and bowlers for India and South Africa based on their predicted ranks.
 
 - This comprehensive approach ensures a balanced and impactful playing XI for each team, combining statistical performance with predictive modeling for an optimal team composition.
+
+![Result](flow_chart/Player_11_(1).jpeg)
+
+![Result](flow_chart/Player_11_(2).jpeg)
 
 
 ### (3) Percentage Of Dot Balls - percentage_of_dot_balls.ipynb
