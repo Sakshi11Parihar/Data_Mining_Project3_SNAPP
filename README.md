@@ -16,7 +16,7 @@ Welcome to our ICC Cricket World Cup 2023 predictions! We're excited to use data
 ### - Nandini Parekh - 202001455
 
 # Project Pipeline
-![Final_Chart](Flowchart/Final_flowchart.png)
+![Final_Chart](flow_chart/Process-Involved-in-Machine-Learning.png)
 
 
 
