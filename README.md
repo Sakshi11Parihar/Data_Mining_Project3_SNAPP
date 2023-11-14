@@ -76,6 +76,52 @@ World Cup Winner :
 
 #### (2) Playing 11 - Playing_11.ipynb
 
+Our playing XI prediction for India and South Africa involved a meticulous process to ensure the selection of the most impactful players. Here's a step-by-step overview:
+
+Batsmen Selection:
+
+-Batsmen Strike Rate Calculation:
+
+-We calculated the strike rate for each batsman based on runs scored in the first 32 matches from the Kaggle dataset.
+
+Average Batting Strike Rate:
+
+-Computed the average batting strike rate for each batsman, factoring in their performance across matches.
+
+Ranking Batsmen:
+
+-Ranked batsmen based on their average batting strike rates to identify the most consistent and effective performers.
+
+Bowlers Selection:
+
+Bowling Strike Rate Calculation:
+
+-Calculated the bowling strike rate for each bowler using the runs conceded and wickets taken in the first 32 matches.
+
+Average Bowling Strike Rate:
+
+-Determined the average bowling strike rate for each bowler, considering their performance in different matches.
+
+Ranking Bowlers:
+
+-Ranked bowlers based on their average bowling strike rates, highlighting their efficiency and wicket-taking ability.
+
+Model Prediction:
+
+- Trained a predictive model on the squad, incorporating both batsmen and bowlers, to forecast their individual ranks.
+  
+Rank Prediction:
+
+-Utilized the trained model to predict the ranks of players in the squad, taking into account their overall performances.
+
+Playing XI Selection:
+
+Top Batsmen and Bowlers:
+
+-Displayed the top 6 batsmen and bowlers for India and South Africa based on their predicted ranks.
+-This comprehensive approach ensures a balanced and impactful playing XI for each team, combining statistical performance with predictive modeling for an optimal team composition.
+
+
 #### (3) Percentage Of Dot Balls - percentage_of_dot_balls.ipynb
 
 Overview :-
