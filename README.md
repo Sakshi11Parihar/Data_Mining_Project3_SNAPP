@@ -33,7 +33,11 @@ In this exciting cricket spectacle, teams will battle it out for supremacy, aimi
 Content :-
 
 deliveries.csv: Comprehensive ball-by-ball data for all matches.
+
+
 matches.csv: Detailed information on each match played.
+
+
 points_table.csv: Current tournament standings.
 
 
