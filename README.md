@@ -63,20 +63,20 @@ Prediction Models :
 
 Semi-Final Teams Prediction :
 
--Based on our predictions and considering the points table scraped from reliable sources, we identified the top four teams: India, South Africa, Australia, and New Zealand.
+- Based on our predictions and considering the points table scraped from reliable sources, we identified the top four teams: India, South Africa, Australia, and New Zealand.
 
 Semi-Final Results :
 
--Our model forecasted semi-final results, with India emerging victorious against New Zealand and South Africa securing a win against Australia.
+- Our model forecasted semi-final results, with India emerging victorious against New Zealand and South Africa securing a win against Australia.
 
 Final Teams :
 
--The culmination of our predictions led us to the final face-off between India and South Africa.
+- The culmination of our predictions led us to the final face-off between India and South Africa.
 
 World Cup Winner :
 
--In accordance with our model predictions, India emerged as the predicted winner of the ICC Cricket World Cup 2023.
--This comprehensive approach, blending historical context with recent match data, and utilizing advanced prediction models, provides a robust foundation for our final team prediction task.
+- In accordance with our model predictions, India emerged as the predicted winner of the ICC Cricket World Cup 2023.
+- This comprehensive approach, blending historical context with recent match data, and utilizing advanced prediction models, provides a robust foundation for our final team prediction task.
 
 
 
@@ -86,31 +86,31 @@ Our playing XI prediction for India and South Africa involved a meticulous proce
 
 Batsmen Selection:
 
--Batsmen Strike Rate Calculation:
+- Batsmen Strike Rate Calculation:
 
--We calculated the strike rate for each batsman based on runs scored in the first 32 matches from the Kaggle dataset.
+- We calculated the strike rate for each batsman based on runs scored in the first 32 matches from the Kaggle dataset.
 
 Average Batting Strike Rate:
 
--Computed the average batting strike rate for each batsman, factoring in their performance across matches.
+- Computed the average batting strike rate for each batsman, factoring in their performance across matches.
 
 Ranking Batsmen:
 
--Ranked batsmen based on their average batting strike rates to identify the most consistent and effective performers.
+- Ranked batsmen based on their average batting strike rates to identify the most consistent and effective performers.
 
 Bowlers Selection:
 
 Bowling Strike Rate Calculation:
 
--Calculated the bowling strike rate for each bowler using the runs conceded and wickets taken in the first 32 matches.
+- Calculated the bowling strike rate for each bowler using the runs conceded and wickets taken in the first 32 matches.
 
 Average Bowling Strike Rate:
 
--Determined the average bowling strike rate for each bowler, considering their performance in different matches.
+- Determined the average bowling strike rate for each bowler, considering their performance in different matches.
 
 Ranking Bowlers:
 
--Ranked bowlers based on their average bowling strike rates, highlighting their efficiency and wicket-taking ability.
+- Ranked bowlers based on their average bowling strike rates, highlighting their efficiency and wicket-taking ability.
 
 Model Prediction:
 
@@ -118,15 +118,15 @@ Model Prediction:
   
 Rank Prediction:
 
--Utilized the trained model to predict the ranks of players in the squad, taking into account their overall performances.
+- Utilized the trained model to predict the ranks of players in the squad, taking into account their overall performances.
 
 Playing XI Selection:
 
 Top Batsmen and Bowlers:
 
--Displayed the top 6 batsmen and bowlers for India and South Africa based on their predicted ranks.
+- Displayed the top 6 batsmen and bowlers for India and South Africa based on their predicted ranks.
 
--This comprehensive approach ensures a balanced and impactful playing XI for each team, combining statistical performance with predictive modeling for an optimal team composition.
+- This comprehensive approach ensures a balanced and impactful playing XI for each team, combining statistical performance with predictive modeling for an optimal team composition.
 
 
 #### (3) Percentage Of Dot Balls - percentage_of_dot_balls.ipynb
@@ -139,4 +139,4 @@ This section presents the results of predicting the percentage of dot balls for 
 
 Conclusion :-
 
-The results demonstrate the performance of different regression models in predicting the dot ball percentage for bowlers. The Random Forest Regressor outperformed other models with a high R² score and lower RMSE values on both the validation and test sets.
+- The results demonstrate the performance of different regression models in predicting the dot ball percentage for bowlers. The Random Forest Regressor outperformed other models with a high R² score and lower RMSE values on both the validation and test sets.
