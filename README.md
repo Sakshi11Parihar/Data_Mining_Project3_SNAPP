@@ -1,6 +1,7 @@
 # Data_Mining_Project3_SNAPP
 
-# [ICC Mens World Cup 2023]([https://www.kaggle.com/datasets/pardeep19singh/icc-mens-world-cup-2023/data])
+
+# [ICC Mens World Cup 2023](https://www.kaggle.com/datasets/pardeep19singh/icc-mens-world-cup-2023/data)
 
 # Introduction
 
