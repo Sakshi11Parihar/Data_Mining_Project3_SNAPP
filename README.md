@@ -55,6 +55,12 @@ Prediction Models :
 
 -Several machine learning models, including RandomForestClassifier, XGBClassifier, DecisionTreeClassifier, and Artificial Neural Networks (ANN), were employed to predict the outcomes. These models were trained on the integrated dataset, considering team performances, player statistics, and match details.
 
+
+![Result](flow_chart/Final_team_models.jpeg)
+
+![Result](flow_chart/Final_team_ANN_result.jpeg)
+
+
 Semi-Final Teams Prediction :
 
 -Based on our predictions and considering the points table scraped from reliable sources, we identified the top four teams: India, South Africa, Australia, and New Zealand.
