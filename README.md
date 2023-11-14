@@ -53,7 +53,7 @@ Overview :-
 
 This section presents the results of predicting the percentage of dot balls for bowlers using various regression models. The analysis involved calculating the percentage of dot balls for each bowler in the dataset, followed by feature selection to identify relevant input features. The selected features were then used to train different regression models to predict the dot ball percentage.
 
-![Result](flowchart/result.png)
+![Result](flow_chart/Percentage_Of_Dot_Balls_result_table.jpg)
 
 Conclusion :-
 
