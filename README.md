@@ -119,6 +119,7 @@ Playing XI Selection:
 Top Batsmen and Bowlers:
 
 -Displayed the top 6 batsmen and bowlers for India and South Africa based on their predicted ranks.
+
 -This comprehensive approach ensures a balanced and impactful playing XI for each team, combining statistical performance with predictive modeling for an optimal team composition.
 
 
