@@ -9,11 +9,11 @@ Welcome to our ICC Cricket World Cup 2023 predictions! We're excited to use data
 
 # TEAM 21 SNAPP
 
-### - Priyanka Lalwani - 202218058
-### - Sakshi Parihar - 202218042
-### - Anisha Anilkumar - 202218038
-### - Prachi Shah - 202218027
-### - Nandini Parekh - 202001455
+### Priyanka Lalwani - 202218058
+### Sakshi Parihar - 202218042
+### Anisha Anilkumar - 202218038
+### Prachi Shah - 202218027
+### Nandini Parekh - 202001455
 
 # Project Pipeline
 ![Final_Chart](flow_chart/Process-Involved-in-Machine-Learning.png)
