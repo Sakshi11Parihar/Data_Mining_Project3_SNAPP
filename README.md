@@ -49,11 +49,11 @@ In our final team prediction task, we aimed to forecast the teams that would rea
 
 Data Integration and Importance :
 
--We merged these datasets to capitalize on the wealth of information from both historical ODI matches and the recent ICC World Cup matches. Special emphasis was given to ICC matches to ensure the relevance and significance of the predictions.
+- We merged these datasets to capitalize on the wealth of information from both historical ODI matches and the recent ICC World Cup matches. Special emphasis was given to ICC matches to ensure the relevance and significance of the predictions.
 
 Prediction Models :
 
--Several machine learning models, including RandomForestClassifier, XGBClassifier, DecisionTreeClassifier, and Artificial Neural Networks (ANN), were employed to predict the outcomes. These models were trained on the integrated dataset, considering team performances, player statistics, and match details.
+- Several machine learning models, including RandomForestClassifier, XGBClassifier, DecisionTreeClassifier, and Artificial Neural Networks (ANN), were employed to predict the outcomes. These models were trained on the integrated dataset, considering team performances, player statistics, and match details.
 
 
 ![Result](flow_chart/Final_team_models.jpeg)
